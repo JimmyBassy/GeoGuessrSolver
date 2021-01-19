@@ -7,3 +7,6 @@ This script auto solves GeoGuessr rounds, it fetches the current round location 
 
 TODOs:
 User Friendly GUI, with custom solving options, difficulties etc...
+
+How to use this software?
+You can use this script with Tampermonkey or similar extensions.
